@@ -1,0 +1,14 @@
+D:\C# Projects\Rijndael\bin\Debug\netcoreapp3.1\Rijndael.exe
+D:\C# Projects\Rijndael\bin\Debug\netcoreapp3.1\Rijndael.deps.json
+D:\C# Projects\Rijndael\bin\Debug\netcoreapp3.1\Rijndael.runtimeconfig.json
+D:\C# Projects\Rijndael\bin\Debug\netcoreapp3.1\Rijndael.runtimeconfig.dev.json
+D:\C# Projects\Rijndael\bin\Debug\netcoreapp3.1\Rijndael.dll
+D:\C# Projects\Rijndael\bin\Debug\netcoreapp3.1\Rijndael.pdb
+D:\C# Projects\Rijndael\obj\Debug\netcoreapp3.1\Rijndael.csproj.AssemblyReference.cache
+D:\C# Projects\Rijndael\obj\Debug\netcoreapp3.1\Rijndael.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Rijndael\obj\Debug\netcoreapp3.1\Rijndael.AssemblyInfoInputs.cache
+D:\C# Projects\Rijndael\obj\Debug\netcoreapp3.1\Rijndael.AssemblyInfo.cs
+D:\C# Projects\Rijndael\obj\Debug\netcoreapp3.1\Rijndael.csproj.CoreCompileInputs.cache
+D:\C# Projects\Rijndael\obj\Debug\netcoreapp3.1\Rijndael.dll
+D:\C# Projects\Rijndael\obj\Debug\netcoreapp3.1\Rijndael.pdb
+D:\C# Projects\Rijndael\obj\Debug\netcoreapp3.1\Rijndael.genruntimeconfig.cache
