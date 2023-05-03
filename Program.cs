@@ -26,7 +26,7 @@ public class RijndaelAlgorithm
         //ключа. Размер ключа в байтах (не в битах).
         byte[] keyBytes = password.GetBytes(keySize / 8);
 
-        //Создание неинициализированного объекта шифрования Rijndael.
+        //Создание объекта шифрования Rijndael.
         RijndaelManaged symmetricKey = new RijndaelManaged();
 
         //Целесообразно установить режим шифрования "Цепочка блоков шифрования"

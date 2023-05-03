@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# Projects\\Rijndael\\Rijndael.csproj": {}
+    "D:\\VRLabs\\Rijndael-AES\\Rijndael.csproj": {}
   },
   "projects": {
-    "D:\\C# Projects\\Rijndael\\Rijndael.csproj": {
+    "D:\\VRLabs\\Rijndael-AES\\Rijndael.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Projects\\Rijndael\\Rijndael.csproj",
+        "projectUniqueName": "D:\\VRLabs\\Rijndael-AES\\Rijndael.csproj",
         "projectName": "Rijndael",
-        "projectPath": "D:\\C# Projects\\Rijndael\\Rijndael.csproj",
-        "packagesPath": "C:\\Users\\gorev\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Projects\\Rijndael\\obj\\",
+        "projectPath": "D:\\VRLabs\\Rijndael-AES\\Rijndael.csproj",
+        "packagesPath": "C:\\Users\\м\\.nuget\\packages\\",
+        "outputPath": "D:\\VRLabs\\Rijndael-AES\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gorev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\м\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

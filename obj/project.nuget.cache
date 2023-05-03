@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Upk9v30PCJpByVgudVKAGov6R3Buo090kOsUB9JZULievm9KcCvg7LNBfOieM+ynZ61fk9oGARiL4f3wtJqCMA==",
+  "dgSpecHash": "RSEzwsluOSdCk/jHQ5si4sIS3xuH3lhmn8Nl+nE2copOsI5ft6LqmLSxT7zwb0OEK2jUGu0WXfxpMbS3u8aYFg==",
   "success": true,
-  "projectFilePath": "D:\\C# Projects\\Rijndael\\Rijndael.csproj",
+  "projectFilePath": "D:\\VRLabs\\Rijndael-AES\\Rijndael.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

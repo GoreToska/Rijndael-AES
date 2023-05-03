@@ -12,3 +12,17 @@ D:\C# Projects\Rijndael\obj\Debug\netcoreapp3.1\Rijndael.csproj.CoreCompileInput
 D:\C# Projects\Rijndael\obj\Debug\netcoreapp3.1\Rijndael.dll
 D:\C# Projects\Rijndael\obj\Debug\netcoreapp3.1\Rijndael.pdb
 D:\C# Projects\Rijndael\obj\Debug\netcoreapp3.1\Rijndael.genruntimeconfig.cache
+D:\VRLabs\Rijndael-AES\bin\Debug\netcoreapp3.1\Rijndael.exe
+D:\VRLabs\Rijndael-AES\bin\Debug\netcoreapp3.1\Rijndael.deps.json
+D:\VRLabs\Rijndael-AES\bin\Debug\netcoreapp3.1\Rijndael.runtimeconfig.json
+D:\VRLabs\Rijndael-AES\bin\Debug\netcoreapp3.1\Rijndael.runtimeconfig.dev.json
+D:\VRLabs\Rijndael-AES\bin\Debug\netcoreapp3.1\Rijndael.dll
+D:\VRLabs\Rijndael-AES\bin\Debug\netcoreapp3.1\Rijndael.pdb
+D:\VRLabs\Rijndael-AES\obj\Debug\netcoreapp3.1\Rijndael.csproj.AssemblyReference.cache
+D:\VRLabs\Rijndael-AES\obj\Debug\netcoreapp3.1\Rijndael.GeneratedMSBuildEditorConfig.editorconfig
+D:\VRLabs\Rijndael-AES\obj\Debug\netcoreapp3.1\Rijndael.AssemblyInfoInputs.cache
+D:\VRLabs\Rijndael-AES\obj\Debug\netcoreapp3.1\Rijndael.AssemblyInfo.cs
+D:\VRLabs\Rijndael-AES\obj\Debug\netcoreapp3.1\Rijndael.csproj.CoreCompileInputs.cache
+D:\VRLabs\Rijndael-AES\obj\Debug\netcoreapp3.1\Rijndael.dll
+D:\VRLabs\Rijndael-AES\obj\Debug\netcoreapp3.1\Rijndael.pdb
+D:\VRLabs\Rijndael-AES\obj\Debug\netcoreapp3.1\Rijndael.genruntimeconfig.cache
